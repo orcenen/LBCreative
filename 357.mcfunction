@@ -1,0 +1,1 @@
+give @a bow[custom_name='[{"text":"357 Magnum","bold":true,"italic":false,"color":"yellow"},{"text":" (Second Edition)","italic":false,"color":"yellow"}]',lore=['[{"text":"LEGENDARY ITEM","italic":false}]','[""]','[{"text":"It\'s a gun.","italic":false}]'],rarity=epic,enchantments={levels:{infinity:1,knockback:5,mending:1,power:3}},item_model="minecraft:iron_hoe"]
